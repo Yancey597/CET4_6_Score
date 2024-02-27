@@ -98,6 +98,6 @@ for i in range(len(data)):
 
 # 导出至csv文件中，会覆写本地文件
 print("已全部查询完毕，正在导出到csv......")
-data.to_csv('grade.csv', mode='w')
+data.to_csv('grade.csv', mode='w', encoding='gbk')
 print("导出完毕.")
  
