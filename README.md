@@ -1,8 +1,8 @@
 # CET_Score
+![Language](https://img.shields.io/badge/language-python-brightgreen)  
 
 本项目用于查询英语四六级成绩，支持批量查询。
 
-![Language](https://img.shields.io/badge/language-python-brightgreen)  #静态图标
 
 
 ## 使用方法
