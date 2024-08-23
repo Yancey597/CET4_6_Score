@@ -1,7 +1,7 @@
 # CET_Score
 ![Language](https://img.shields.io/badge/language-python-brightgreen)  
 
-本项目用于根据已有的 Excel 报名信息，批量查询英语四六级成绩，在成功获取成绩后，将分数保存至本地。
+本项目用于根据已有的 Excel 报名信息，批量查询英语四六级成绩，在成功获取成绩后，将分数保存至本地。如果本项目对您有所帮助，欢迎 star！谢谢
 
 ## 更新日志
 
