@@ -41,7 +41,7 @@ data.insert(7, '写作部分', '')
 
 print(data.columns)
 
-# 添加请求头
+# 添加请求头（请添加自己的信息）
 headerss = {
   }
 # 用列表存储所有考生的参数
